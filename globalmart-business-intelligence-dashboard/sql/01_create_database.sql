@@ -1,0 +1,1 @@
+CREATE DATABASE globalmart_analytics;
